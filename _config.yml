@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Bounded Labs
 description: Experimental Company Creation
-logo: ![Primary Logo](https://github.com/BrienBounded/Bounded-Labs/raw/gh-pages/Primary%20Logo.png)
+logo: ![Primary Logo](https://github.com/BrienBounded/Bounded-Labs/blob/gh-pages/Primary%20Logo.png?raw=true)
 show_downloads: false
