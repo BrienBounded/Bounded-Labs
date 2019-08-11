@@ -12,14 +12,12 @@
 
 > It is the mark of an educated mind to be able
 > to entertain a thought without accepting it.
+> *Aristotle*
 
-*Aristotle*
-<br>
 
 > Get some facts, 
 > then come back and see me.
-
-*Jim Calhoun*
+> *Jim Calhoun*
 
 
 > Every act of creation is first an act of destruction.
