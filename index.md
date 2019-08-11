@@ -15,20 +15,17 @@
 
 *Aristotle*
 
-<br>
 
 > Get some facts, 
 > then come back and see me.
 
 *Jim Calhoun*
 
-<br>
 
 > Every act of creation is first an act of destruction.
 
 *Picasso*
 
-<br>
 
 > Failure is only the opportunity to begin again more intelligently. 
 
