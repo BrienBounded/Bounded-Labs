@@ -1,14 +1,14 @@
-### Bound
+## Bound
 *verb*: to walk or run with leaping strides.
 
 *noun*: to place within certain limits.
 
-### Lab
+## Lab
 *noun*: a place providing opportunity for experimentation, observation, or practice in a field of study.
 
 <p></p>
 
-## Guiding Thoughts
+### Guiding Thoughts
 
 > It is the mark of an educated mind to be able
 > to entertain a thought without accepting it.
