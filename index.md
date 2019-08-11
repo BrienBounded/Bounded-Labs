@@ -12,7 +12,8 @@
 
 > It is the mark of an educated mind to be able
 > to entertain a thought without accepting it.
-> *Aristotle*
+
+*Aristotle*
 
 
 > Get some facts, 
@@ -29,19 +30,16 @@
 
 *Henry Ford*
 
-<br>
 
 > There are no rules here - we're trying to accomplish something.
 
 *Thomas Edison*
 
-<br>
 
 > Do not go where the path may lead, go instead where there is no path and leave a trail.
 
 *Ralph Waldo Emerson*
 
-<br>
 
 > Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. 
 > They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them.
