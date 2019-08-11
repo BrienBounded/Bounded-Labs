@@ -18,7 +18,8 @@
 
 > Get some facts, 
 > then come back and see me.
-> *Jim Calhoun*
+
+*Jim Calhoun*
 
 
 > Every act of creation is first an act of destruction.
