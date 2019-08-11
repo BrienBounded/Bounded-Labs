@@ -18,7 +18,6 @@
 
 *Aristotle*
 
-<br>
 
 > Get some facts, 
 > then come back and see me.
