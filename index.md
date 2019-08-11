@@ -1,5 +1,9 @@
 ## We are Bounded Labs
 
-We experiment with and test new product and business opportunities. 
+### Bound
+*verb*: to walk or run with leaping strides.
 
-We seek to build sustainable companies that deliver real value to customers. 
+*noun*: to place within certain limits.
+
+### Lab
+*noun*: a place providing opportunity for experimentation, observation, or practice in a field of study.
